@@ -1,3 +1,5 @@
+<img width="780" height="359" alt="1" src="https://github.com/user-attachments/assets/03926957-286e-4ff1-b545-7c3057faaa8c" />
+
 # BULMS - Web Based Learning Management System
 
 BULMS (Web-Based LMS) is a Learning Management System developed as part of the **Web Systems and Technologies** course project.  
