@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Packages
+packages/
+*.nupkg
+
+# Database files
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.cache

@@ -1,0 +1,1 @@
+SELECT * FROM Courses WHERE FacultyID = 5;

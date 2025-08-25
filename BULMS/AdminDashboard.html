@@ -1,0 +1,51 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AddUser.aspx.cs" Inherits="BULMS.AddUser" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Add User - BULMS</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <a href="AddUser.aspx" class="btn btn-primary mt-3">Add User</a>
+    <a href="ManageCourses.aspx" class="btn btn-success mt-3">Manage Courses</a>
+    <a href="Reports.aspx" class="btn btn-info mt-3">Reports</a>
+</head>
+<body>
+    <form id="form1" runat="server" class="container mt-5">
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h3>Add New User</h3>
+            </div>
+            <div class="card-body">
+                <asp:Label ID="lblMessage" runat="server" CssClass="text-danger" />
+                <div class="mb-3">
+                    <asp:Label ID="lblRole" runat="server" Text="Role:" CssClass="form-label" />
+                    <asp:DropDownList ID="ddlRole" runat="server" CssClass="form-select">
+                        <asp:ListItem Text="Select Role" Value="" />
+                        <asp:ListItem Text="Student" Value="1" />
+                        <asp:ListItem Text="Faculty" Value="2" />
+                        <asp:ListItem Text="Admin" Value="3" />
+                    </asp:DropDownList>
+                </div>
+                <div class="mb-3">
+                    <asp:Label ID="lblUsername" runat="server" Text="Username:" CssClass="form-label" />
+                    <asp:TextBox ID="txtUsername" runat="server" CssClass="form-control" />
+                </div>
+                <div class="mb-3">
+                    <asp:Label ID="lblPassword" runat="server" Text="Password:" CssClass="form-label" />
+                    <asp:TextBox ID="txtPassword" runat="server" CssClass="form-control" TextMode="Password" />
+                </div>
+                <div class="mb-3">
+                    <asp:Label ID="lblFullName" runat="server" Text="Full Name:" CssClass="form-label" />
+                    <asp:TextBox ID="txtFullName" runat="server" CssClass="form-control" />
+                </div>
+                <div class="mb-3">
+                    <asp:Label ID="lblEmail" runat="server" Text="Email:" CssClass="form-label" />
+                    <asp:TextBox ID="txtEmail" runat="server" CssClass="form-control" />
+                </div>
+                <asp:Button ID="btnAddUser" runat="server" Text="Add User" CssClass="btn btn-primary" OnClick="btnAddUser_Click" />
+                <a href="AdminDashboard.aspx" class="btn btn-secondary ms-2">Back to Dashboard</a>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

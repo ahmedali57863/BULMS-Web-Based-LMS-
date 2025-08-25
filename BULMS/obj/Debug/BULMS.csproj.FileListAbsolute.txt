@@ -1,0 +1,144 @@
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\BULMS.dll.config
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\BULMS.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\BULMS.pdb
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\csc.exe
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\csc.exe.config
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\csc.rsp
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\csi.exe
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\csi.exe.config
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\csi.rsp
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.AppContext.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Console.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Net.Http.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\vbc.exe
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\vbc.exe.config
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\vbc.rsp
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Antlr3.Runtime.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Newtonsoft.Json.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\System.Web.Optimization.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\WebGrease.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\System.Web.Optimization.xml
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Newtonsoft.Json.xml
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Antlr3.Runtime.pdb
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\obj\Debug\BULMS.csproj.AssemblyReference.cache
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\obj\Debug\BULMS.csproj.CoreCompileInputs.cache
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\obj\Debug\BULMS.csproj.Up2Date
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\obj\Debug\BULMS.dll
+C:\Users\zaura\Desktop\VS LMS\BULMS\BULMS\obj\Debug\BULMS.pdb
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\BULMS.dll.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\BULMS.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\BULMS.pdb
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\csc.exe
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\csc.exe.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\csc.rsp
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\csi.exe
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\csi.exe.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\csi.rsp
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.AppContext.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Collections.Immutable.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Console.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.IO.Compression.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.IO.FileSystem.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Net.Http.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Net.Sockets.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.ValueTuple.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Xml.XPath.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\vbc.exe
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\vbc.exe.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\vbc.rsp
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\VBCSCompiler.exe
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\roslyn\VBCSCompiler.exe.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Antlr3.Runtime.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Microsoft.Web.Infrastructure.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Newtonsoft.Json.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\System.Web.Optimization.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\WebGrease.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\System.Web.Optimization.xml
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Newtonsoft.Json.xml
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Antlr3.Runtime.pdb
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\obj\Debug\BULMS.csproj.AssemblyReference.cache
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\obj\Debug\BULMS.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\obj\Debug\BULMS.csproj.Up2Date
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\obj\Debug\BULMS.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\BULMS\BULMS\obj\Debug\BULMS.pdb

@@ -1,0 +1,1 @@
+   SELECT UserID, Username, FullName FROM Users WHERE RoleID = 2;

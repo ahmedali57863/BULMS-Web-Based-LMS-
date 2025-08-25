@@ -1,0 +1,1 @@
+  ALTER TABLE Assignments ADD FilePath NVARCHAR(255) NULL;
